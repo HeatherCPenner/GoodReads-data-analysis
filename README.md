@@ -13,6 +13,7 @@ I did not find a correlation between Ratings and any of the above factors.
 
 ### Dataset:
 The dataset I used was pulled from Kaggle. The original csv had 13,719 rows.
+Thank you to soumik: https://www.kaggle.com/jealousleopard/goodreadsbooks
 
 ### Data Cleaning:
 
